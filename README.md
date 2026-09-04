@@ -1,0 +1,1 @@
+# machine-learning-based-presiction-of-earthquake-magnitude-using-global-seamic-data-
